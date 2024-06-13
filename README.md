@@ -26,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutisuryawanshi721&show_icons=true&locale=en&layout=compact" alt="shrutisuryawanshi721" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutisuryawanshi721&show_icons=true&locale=en" alt="shrutisuryawanshi721" /></p>
+![Shrutisuryawanshi721 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrutisuryawanshi721 &theme=vue-dark&hide_border=false)
